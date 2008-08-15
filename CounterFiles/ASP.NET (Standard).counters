@@ -1,0 +1,8 @@
+This file is used to load performance counters by SysMonitr.exe
+
+\ASP.NET\Application Restarts||Color=1,Width=1,ScaleFactor=2147483647
+\ASP.NET\Applications Running||Color=1,Width=1,ScaleFactor=2147483647
+\ASP.NET\Requests Current||Color=1,Width=1,ScaleFactor=2147483647
+\ASP.NET\Request Execution Time||Color=1,Width=1,ScaleFactor=2147483647
+\ASP.NET\Requests Queued||Color=1,Width=1,ScaleFactor=2147483647
+\ASP.NET\Requests Rejected||Color=1,Width=1,ScaleFactor=2147483647

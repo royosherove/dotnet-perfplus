@@ -1,0 +1,12 @@
+This file is used to load performance counters by SysMonitr.exe
+
+\Process(_Total)\% Processor Time||Color=1,Width=1,ScaleFactor=2147483647
+\Process(_Total)\Private Bytes||Color=1,Width=1,ScaleFactor=2147483647
+\Process(_Total)\Thread Count||Color=1,Width=1,ScaleFactor=2147483647
+\Web Service(_Total)\ISAPI Extension Requests/sec||Color=1,Width=1,ScaleFactor=2147483647
+
+\ASP.NET\Requests Current||Color=1,Width=1,ScaleFactor=2147483647
+\ASP.NET\Requests Queued||Color=1,Width=1,ScaleFactor=2147483647
+\ASP.NET\Request Wait Time||Color=1,Width=1,ScaleFactor=2147483647
+\ASP.NET Applications($APP$)\Pipeline Instance Count||Color=1,Width=1,ScaleFactor=2147483647
+\ASP.NET Applications($APP$)\Requests in Application Queue||Color=1,Width=1,ScaleFactor=2147483647

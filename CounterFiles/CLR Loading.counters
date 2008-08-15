@@ -1,0 +1,5 @@
+This file is used to load performance counters by SysMonitr.exe
+
+\.NET CLR Loading(w3wp)\Bytes in Loader Heap ||Color=1,Width=1,ScaleFactor=2147483647
+\.NET CLR Loading(w3wp)\Current appdomains ||Color=2,Width=1,ScaleFactor=2147483647
+\.NET CLR Loading(w3wp)\Current Assemblies ||Color=3,Width=1,ScaleFactor=2147483647

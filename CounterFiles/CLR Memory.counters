@@ -1,0 +1,7 @@
+This file is used to load performance counters by SysMonitr.exe
+
+\.NET CLR Memory(w3wp)\# Bytes in all heaps||Color=1,Width=1,ScaleFactor=2147483647
+\.NET CLR Memory(w3wp)\# Gen 0 Collections ||Color=2,Width=1,ScaleFactor=2147483647
+\.NET CLR Memory(w3wp)\# Gen 1 Collections ||Color=2,Width=1,ScaleFactor=2147483647
+\.NET CLR Memory(w3wp)\# Gen 2 Collections ||Color=2,Width=1,ScaleFactor=2147483647
+\.NET CLR Memory(w3wp)\% Time in GC ||Color=3,Width=1,ScaleFactor=2147483647
