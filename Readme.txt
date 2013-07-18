@@ -1,3 +1,5 @@
+This project is licensed under the Apache 2 License.
+
 Perf+ by Roy Osherove
 Copyright 2006 Roy Osherove
 ---------------------
